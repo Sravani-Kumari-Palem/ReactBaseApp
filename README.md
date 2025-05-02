@@ -1,5 +1,5 @@
 # To install node modules
-npm i
+npm install
 # To run React app
 npm start
 
